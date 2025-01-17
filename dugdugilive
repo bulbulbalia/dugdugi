@@ -85,7 +85,7 @@ http://172.16.88.20:18190/zeebanglacinema/tracks-v1a1/mono.m3u8
 http://172.16.88.50:18190/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_BHAROT_HD
 http://172.16.88.50:18190/starbharat/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEETV_HD
+#EXTINF:-1,ZEE_TV_HD
 http://172.16.88.50:18190/zeetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY_SAB_HD
 http://172.16.88.50:18190/sonysab/tracks-v1a1/mono.m3u8
