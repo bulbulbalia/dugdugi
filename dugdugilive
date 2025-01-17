@@ -19,7 +19,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/satv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SOMOY_TV_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CHANNEl_9_HD
+#EXTINF:-1,CHANNEL_9_HD
 http://172.16.88.10:18190/channel9/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DEEPTO_TV_HD
 http://172.16.88.10:18190/deepto/tracks-v1a1/mono.m3u8
