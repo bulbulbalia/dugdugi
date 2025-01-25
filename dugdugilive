@@ -66,7 +66,7 @@ http://172.16.88.30:18190/ekhon/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NEXUS_TV
 http://172.16.88.30:18190/nexustelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_JALSHA_HD
-http://172.16.88.20:18190/starjalsha/tracks-v1a1/mono.m3u8
+http://172.20.3.1:81/StarJalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE_BANGLA_HD
 http://172.16.88.20:18190/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,COLORS_BANGLA_HD
@@ -85,7 +85,7 @@ http://172.16.88.20:18190/zeebanglacinema/tracks-v1a1/mono.m3u8
 http://172.16.88.50:18190/starplus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_BHAROT_HD
 http://172.16.88.50:18190/starbharat/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE_TV_HD
+#EXTINF:-1,ZEETV_HD
 http://172.16.88.50:18190/zeetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY_SAB_HD
 http://172.16.88.50:18190/sonysab/tracks-v1a1/mono.m3u8
@@ -97,5 +97,11 @@ http://172.16.88.50:18190/andtv/tracks-v1a1/mono.m3u8
 http://172.16.88.50:18190/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_GOLD_ROMANCE
 http://172.16.88.50:18190/stargoldromance/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TRAVEL_XP_ENGLISH_HD
+http://172.16.88.70:18190/travelxp/tracks-v3a1/mono.m3u8
 #EXTINF:-1,MBC_5_HD
 http://172.20.3.1:81/MBC5/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BBC_LYFE_STYLE_HD
+http://172.20.3.1:81/BBCLifestyleHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TRAVEL_XP_BANGLA_HD
+http://172.20.3.1:81/TravelXPHD/tracks-v1a1/mono.m3u8
