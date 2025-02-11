@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,INDIPENDENT_TV_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
+http://server.itcnbd.live/24/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DBC_NEWS_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/DBC/tracks-v1a1/mono.m3u8
+http://172.19.178.59:18190/sn-dbc/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTV_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CHANNEL_I_HD
@@ -16,10 +16,10 @@ http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
 #EXTINF:-1,EKATTOR_TV_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SA_TV_HD
-http://tv.dugdugilive.com:8080/0ne$ky23/satv/tracks-v1a1/mono.m3u8
+http://172.16.88.10:18190/satv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SOMOY_TV_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CHANNEl_9_HD
+#EXTINF:-1,BANGLA_TV_HD
 http://172.16.88.10:18190/channel9/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DEEPTO_TV_HD
 http://172.16.88.10:18190/deepto/tracks-v1a1/mono.m3u8
@@ -79,8 +79,6 @@ http://172.16.88.20:18190/enterr10bangla/tracks-v1a1/mono.m3u8
 http://172.16.88.20:18190/sunbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,JALSHA_MOVIES
 http://172.16.88.20:18190/jalshamovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE_BANGLA_CINEMA
-http://172.16.88.20:18190/zeebanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_PLUS_HD
 http://172.20.3.1:81/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_BHAROT_HD
