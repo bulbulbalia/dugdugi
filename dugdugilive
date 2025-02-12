@@ -131,6 +131,8 @@ http://server.itcnbd.live/35/tracks-v1a1/mono.m3u8
 http://server.itcnbd.live/39/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NATIONAL_GEOGRAPHIC_WILD_HD
 http://server.itcnbd.live/86/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ANIMAL_PLANET_HD
+http://172.16.88.60:18190/animalplanet/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BBC_WILD_HD
 http://server.itcnbd.live/48/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DISCOVERY_BANGLA_HD
@@ -141,3 +143,13 @@ http://172.16.88.60:18190/tlc/tracks-v1a1/mono.m3u8
 http://172.16.88.70:18190/historytv18/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BBC_EARTH_HD
 http://172.16.88.70:18190/sonybbcearth/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SANGEET_BANGLA_HD
+http://172.16.88.30:18190/sangeetbangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1,9XM_MUSIC_HD
+http://172.16.88.70:18190/9xm/tracks-v1a1/mono.m3u8
+#EXTINF:-1,B4U_MUSIC_HD
+http://172.16.88.70:18190/b4umusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MTV_BEATS_MUSIC_HD
+http://172.16.88.70:18190/mtvbeats/tracks-v1/mono.m3u8
+#EXTINF:-1,MASTII_MUSIC_HD
+http://172.16.88.70:18190/mastiii/tracks-a1/mono.m3u8
