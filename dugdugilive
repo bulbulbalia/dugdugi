@@ -128,7 +128,7 @@ http://server.itcnbd.live/50/tracks-v1a1/mono.m3u8
 #EXTINF:-1,AL_JAJEERA_HD
 http://server.itcnbd.live/35/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DW_NEWS_HD
-http://server.itcnbd.live/35/tracks-v1a1/mono.m3u8
+http://server.itcnbd.live/39/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NATIONAL_GEOGRAPHIC_WILD_HD
 http://server.itcnbd.live/86/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BBC_WILD_HD
@@ -139,3 +139,5 @@ http://server.itcnbd.live/11/tracks-v1a1/mono.m3u8
 http://172.16.88.60:18190/tlc/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HISTORY_TV_HD
 http://172.16.88.70:18190/historytv18/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BBC_EARTH_HD
+http://172.16.88.70:18190/sonybbcearth/tracks-v1a1/mono.m3u8
