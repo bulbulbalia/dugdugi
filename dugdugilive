@@ -70,11 +70,11 @@ http://172.16.88.30:18190/nexustelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CHANNEL_9_HD
 http://server.itcnbd.live/71/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_JALSHA_HD
-http://172.16.88.20:18190/starjalsha/tracks-v1a1/mono.m3u8
+http://server.itcnbd.live/65/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE_BANGLA_HD
 http://172.16.88.20:18190/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,COLORS_BANGLA_HD
-http://172.16.88.20:18190/colorsbangla/tracks-v1a1/mono.m3u8
+http://server.itcnbd.live/64/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY_AATH
 http://172.16.88.20:18190/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ENTER_10_BANGLA
@@ -82,7 +82,7 @@ http://172.16.88.20:18190/enterr10bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SUN_BANGLA_HD
 http://172.16.88.20:18190/sunbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,JALSHA_MOVIES
-http://172.16.88.20:18190/jalshamovies/tracks-v1a1/mono.m3u8
+http://server.itcnbd.live/68/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_PLUS_HD
 http://172.20.3.1:81/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR_BHAROT_HD
