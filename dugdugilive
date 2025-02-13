@@ -76,7 +76,7 @@ http://server.itcnbd.live/65/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE_BANGLA_HD
 http://172.16.88.20:18190/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,COLORS_BANGLA_HD
-http://server.itcnbd.live/64/tracks-v1a1/mono.m3u8
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 #EXTINF:-1,SONY_AATH
 http://172.16.88.20:18190/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ENTER_10_BANGLA
@@ -146,10 +146,10 @@ http://172.16.88.70:18190/sonybbcearth/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SANGEET_BANGLA_HD
 http://172.16.88.30:18190/sangeetbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,9XM_MUSIC_HD
-http://172.16.88.70:18190/9xm/tracks-v1a1/mono.m3u8
+http://172.16.29.3:8090/hls/9xm.m3u8
 #EXTINF:-1,B4U_MUSIC_HD
 http://172.16.88.70:18190/b4umusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MTV_BEATS_MUSIC_HD
 http://172.16.88.70:18190/mtvbeats/tracks-v1/mono.m3u8
 #EXTINF:-1,MASTII_MUSIC_HD
-http://172.16.88.70:18190/mastiii/tracks-a1/mono.m3u8
+http://172.16.29.3:8090/hls/mastii.m3u8
