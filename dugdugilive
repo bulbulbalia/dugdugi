@@ -153,3 +153,9 @@ http://172.16.88.70:18190/b4umusic/tracks-v1a1/mono.m3u8
 http://172.16.88.70:18190/mtvbeats/tracks-v1/mono.m3u8
 #EXTINF:-1,MASTII_MUSIC_HD
 http://172.16.29.3:8090/hls/mastii.m3u8
+#EXTINF:-1,ARY_DIGiTAL_HD
+http://humsab.xyz/PAK_ARYTVG/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HUMTV_HD
+http://humsab.xyz/PAK_HUMTVG/tracks-v1a1/mono.m3u8
+#EXTINF:-1,MTV_HD
+http://server.itcnbd.live/90/tracks-v1a1/mono.m3u8
