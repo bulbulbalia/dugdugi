@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,PEACE_TV_BANGLA_HD
-http://server.itcnbd.live/13/tracks-v1a1/mono.m3u8
+http://113.192.43.154:8080/13/tracks-v1a1/mono.m3u8
 #EXTINF:-1,INDIPENDENT_TV_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DBC_NEWS_HD
@@ -10,7 +10,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CHANNEL_I_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BANGLAVISION_HD
-http://172.16.88.10:18190/banglavision/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NTV_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ATN_NEWS_HD
@@ -24,13 +24,13 @@ http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BANGLA_TV_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DEEPTO_TV_HD
-http://172.16.88.10:18190/deepto/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Deepto/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MASRANGA_TV_HD
-http://172.16.88.10:18190/maasranga/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Massranga/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NAGORIK_TV_HD
 http://172.16.88.10:18190/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BTV_HD
-http://172.16.88.10:18190/btv/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,JAMUNA_TV_HD
 http://172.16.88.20:18190/jamunatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CHANNEL_24_HD
@@ -42,7 +42,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BOISHAKHI_TV_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF:-1,EKUSHEY_TV_HD
-http://172.16.88.10:18190/ekusheytv/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ASIAN_TV_HD
 http://172.16.88.10:18190/asian/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DURONTO_TV_HD
